@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-firebase-a0bff": {
+      "hosting": {
+        "github-login-firebase": [
+          "angular-firebase-a0bff"
+        ]
+      }
+    }
+  }
+}
